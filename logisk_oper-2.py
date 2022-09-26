@@ -1,3 +1,5 @@
-x=int(input())
+x=float(input())
 if x < 7:
-    print(x)
+    print("Ir apgabala")
+else:
+    print("Nav apgabala")
